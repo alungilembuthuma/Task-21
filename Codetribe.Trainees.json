@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "674082b3bb58700c9d0d8191"
+  },
+  "Name": "Jane Smith",
+  "Facilitator": "John Doe",
+  "Location": "Cape Town"
+},
+{
+  "_id": {
+    "$oid": "674424f9a883545c9f0d8191"
+  },
+  "Name": "Alungile Mbuthuma",
+  "Location": "Pietermaritzburg",
+  "Facilitator": "Dlozi"
+}]

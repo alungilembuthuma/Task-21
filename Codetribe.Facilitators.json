@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "674080e1bb58700c9d0d8190"
+  },
+  "Name": "John Doe",
+  "Course": "Web Development"
+},
+{
+  "_id": {
+    "$oid": "67441dab54d18235b90d8190"
+  },
+  "Name": "John Doe",
+  "Course": "Full-Stack Development"
+},
+{
+  "_id": {
+    "$oid": "6744247ea883545c9f0d8190"
+  },
+  "Name": "Dlozi Mthethwa",
+  "Location": "Pietermaritzburg",
+  "Course": "Full Stack Developer"
+}]
